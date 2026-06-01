@@ -71,10 +71,10 @@ The through-line: I've always cared more about *why* something broke than *that*
 
 ```php
 $anthony = [
-    'craft'       => 'Writing code that future-me won\'t hate',
-    'quality'     => 'Tests aren\'t optional, they\'re respect for your teammates',
-    'people'      => 'Elevating the engineers around me matters as much as my own output',
-    'comms'       => 'I can explain tech to a CFO and architecture to a junior dev',
+    "craft"       => "Writing code that future-me won't hate",
+    "quality"     => "Tests aren't optional, they're respect for your teammates",
+    "people"      => "Elevating the engineers around me matters as much as my own output",
+    "comms"       => "I can explain tech to a CFO and architecture to a junior dev",
 ];
 ```
 
