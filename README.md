@@ -41,12 +41,32 @@ Anthony Iles
 
 ## 📈 Career arc
 
-```
-| 2016 ────────────── 2018 ────── 2019 ───────────────────────── 2024 ─────── 2026 ────────────────► Now |
-|                                                               |                                        |
-|                        Uptime Solutions                       |                  Tillo                 |
-| [Helpdesk Engineer] [Team Lead] [Software Engineer/SLT Member] [Full Stack] [Senior Software Engineer] |
-```
+<table width="100%">
+    <tr>
+      <td align="center"><sub>2016</sub></td>
+      <td align="center"><sub>2017</sub></td>
+      <td align="center"><sub>2018</sub></td>
+      <td align="center"><sub>2019</sub></td>
+      <td align="center"><sub>2020</sub></td>
+      <td align="center"><sub>2021</sub></td>
+      <td align="center"><sub>2022</sub></td>
+      <td align="center"><sub>2023</sub></td>
+      <td align="center"><sub>2024</sub></td>
+      <td align="center"><sub>2025</sub></td>
+      <td align="center"><sub>2026</sub></td>
+    </tr>
+    <tr>
+      <td colspan="8" align="center"><i>Uptime Solutions</i></td>
+      <td colspan="3" align="center"><i>Tillo</i></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">Helpdesk Engineer</td>
+      <td colspan="1" align="center">Helpdesk Team Lead</td>
+      <td colspan="5" align="center">Software Engineer<br/>+ Senior Leadership Team</td>
+      <td colspan="2" align="center">Full Stack Engineer</td>
+      <td colspan="1" align="center">Senior Full Stack Engineer</td>
+    </tr>
+  </table>
 
 The through-line: I've always cared more about *why* something broke than *that* it broke.
 
@@ -56,7 +76,7 @@ The through-line: I've always cared more about *why* something broke than *that*
 
 - **REST API integration platform** - unified multiple 3rd-party APIs and webhooks into a single bidirectional sync layer for a ticketing system. Cut manual helpdesk work significantly.
 - **Multi-tenanted white-labelled gift card store** - a fully white-labelled storefront platform that multiple brands can run as their own, built to scale across tenants without leaking context between them.
-- **Audit system on DynamoDB** - immutable, append-only audit trail for admin events. DynamoDB's write throughput and TTL support made it the right tool; getting the data model right was the interesting part.
+- **Auditing system on DynamoDB** - immutable, append-only audit trail for admin events. DynamoDB's write throughput and TTL support made it the right tool; getting the data model right was the interesting part.
 - **White-labelled knowledgebase** - multi-tenant support portal where partners could surface branded articles under their own identity.
 - **REST API integration platform** - unified multiple 3rd-party APIs and webhooks into a single bidirectional sync layer for a ticketing system. Cut manual helpdesk work significantly.
 - **ISO 9001 & 27001 aligned dev lifecycle** - took the full dev process from ad-hoc to auditable. Secure SDLC isn't a checkbox, it's a habit.
